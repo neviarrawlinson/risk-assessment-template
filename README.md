@@ -4,10 +4,11 @@ This repository contains a simple, reusable **Risk Assessment Template** in Mark
 
 ---
 
-## Files Included
+## 📄 Files Included
 
-- `template.md`: The actual risk assessment form you can copy per risk.
-- `README.md`: Explains usage and structure.
+- [`template.md`](template.md) – A reusable markdown risk assessment form
+- [`example-slack-risk.md`](example-slack-risk.md) – A completed risk example using the Slack App governance scenario
+- `README.md` – Instructions and usage guide
 
 ---
 
